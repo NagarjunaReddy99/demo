@@ -1,0 +1,5 @@
+public class Hii(){
+public void m1();{
+system.out.println("siddipet")
+}
+}
